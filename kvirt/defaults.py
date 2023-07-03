@@ -49,9 +49,9 @@ IMAGES = {'almalinux9': 'http://repo.ifca.es/almalinux/9.0/cloud/x86_64/images/'
           'centos8': 'https://cloud.centos.org/centos/8/x86_64/images/'
           'CentOS-8-GenericCloud-8.4.2105-20210603.0.x86_64.qcow2',
           'centos8stream': 'https://cloud.centos.org/centos/8-stream/x86_64/'
-          'images/CentOS-Stream-GenericCloud-8-20210603.0.x86_64.qcow2',
+          'images/CentOS-Stream-GenericCloud-8-20220913.0.x86_64.qcow2',
           'centos9stream': 'https://cloud.centos.org/centos/9-stream/x86_64/'
-          'images/CentOS-Stream-GenericCloud-9-20211203.0.x86_64.qcow2',
+          'images/CentOS-Stream-GenericCloud-9-20220621.1.x86_64.qcow2',
           'cirros': 'http://download.cirros-cloud.net/0.5.2/cirros-0.5.2-x86_64-disk.img',
           'coreos': 'https://stable.release.core-os.net/amd64-usr/current/coreos_production_qemu_image.img.bz2',
           'debian8': DEBIAN + 'openstack/archive/8.11.0/debian-8.11.0-openstack-amd64.qcow2',
